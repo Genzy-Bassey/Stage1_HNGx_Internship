@@ -1,0 +1,37 @@
+body {
+    font-family: cursive;
+    background-color: #312f2f;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.user{
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+.weeks{
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    margin: 10px auto;
+    max-width: 400px;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #007bff;
+}
+
+img {
+    max-width: 25%;
+    border-radius: 25%;
+    border: 2px solid #007bff;
+    margin-bottom: 10px;
+}
